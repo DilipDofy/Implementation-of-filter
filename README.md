@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-img_path = r"C:\Users\admin\Downloads\eif.jpeg"  # Change this to your correct path
+img_path = r"C:\Users\admin\Downloads\Taj mahal.jpg"  # Change this to your correct path
 
 if not os.path.exists(img_path):
     print(" Image not found. Check the file path.")
